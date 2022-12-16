@@ -1,0 +1,138 @@
+
+/* Structure --------------------------------------------------------------------------------------*/
+#bloc-page{
+	width: 90%;
+	margin: auto;
+}
+
+header{
+	display: flex;
+	align-items: center;
+}
+
+section{
+	display: flex;
+	justify-content: space-around;
+}
+
+section div{
+	width: 33%;
+	text-align: justify;
+	padding: 12px;
+	margin: 5px; 
+	background-color: rgba(0,0,100,0.2);
+}
+
+/* Titres -----------------------------------------------------------------------------------------*/
+header h1{
+	margin-left: 10px;
+}
+
+h1{
+	color: #0B2161;
+	font-family: "Arial Black"
+}
+
+h2{
+	border-bottom: 2px solid #0B2161;
+	font-family: Arial;
+	color: #0B2161
+}
+
+
+/* Textes -----------------------------------------------------------------------------------------*/
+header p{
+	margin-left: 5px;
+}
+
+p{
+	text-align: left;
+	color: #0B2161;
+	font-family: Arial
+}
+
+ul { list-style: none;
+	font-family: Arial;
+	margin: 0	}
+	
+/* Images -----------------------------------------------------------------------------------------*/
+header img{
+	border-radius:50%;
+	height: 3em;
+}
+
+ul img{
+	vertical-align:middle;
+	margin-right: 10px;
+	margin-bottom: 5px;
+	height: 1.5em;
+}
+
+#projects img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+/* Liens ------------------------------------------------------------------------------------------*/ 
+a{
+	text-decoration: none;
+	color: #0B2161
+}
+
+a:hover{
+	border-bottom: 1px solid;
+}
+
+/* Media queries ----------------------------------------------------------------------------------*/
+
+@media screen and (max-width: 1100px){ /*---------------------------------*/
+	
+	/* Structure --------------------------------*/
+	#bloc-page{
+	width: 95%;
+	margin: auto; 
+	}
+	
+	section{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	}
+
+	section div{
+	width: 100%;
+	text-align: justify;
+	padding: 12px;
+	margin: 5px; 
+	background-color: rgba(0,0,100,0.2);
+	}
+
+	/* Titres -----------------------------------*/
+	h1{
+		font-size: 3em;
+	}
+	
+	h2{
+		font-size: 2.5em;
+	}
+
+	/* Textes -----------------------------------*/
+	p{
+		font-size: 2em;
+	}
+	
+	/* Images -----------------------------------*/
+	header img{
+		height: 2.5em;
+	}
+	ul img{
+		height: 3em;
+	}
+	
+	/* Liens ------------------------------------*/
+	a{
+		font-size: 2.5em;
+	}
+}
