@@ -1,0 +1,13 @@
+---
+title: "Lucas Voirin"
+image: lv.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/lucas_voirin
+    - icon: github
+      text: Github
+      href: https://github.com/lucasvoirin
+---
