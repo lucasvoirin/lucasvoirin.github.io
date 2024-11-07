@@ -2,12 +2,15 @@
 title: "Lucas Voirin"
 image: lv.jpg
 about:
-  template: jolla
+  template: trestles
   links:
-    - icon: twitter
-      text: Twitter
+    - icon: twitter-x
+      text: "@lucas_voirin"
       href: https://twitter.com/lucas_voirin
     - icon: github
       text: Github
       href: https://github.com/lucasvoirin
+    - icon: link-45deg
+      text: Centre d'étude de la forêt
+      href: https://www.cef-cfr.ca/pmwiki.php?n=Membres.LucasVoirin
 ---
