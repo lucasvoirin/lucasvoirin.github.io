@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/research.html",
-    "items": [
-      "/research/attenuation_modeling/index.html"
-    ]
-  },
-  {
     "listing": "/research/index.html",
     "items": [
       "/research/attenuation_modeling/index.html"
