@@ -9,4 +9,6 @@ about:
       href: https://github.com/lucasvoirin
     - text: "{{< fa leaf >}} Centre d'étude de la forêt"
       href: https://www.cef-cfr.ca/pmwiki.php?n=Membres.LucasVoirin
+    - text: "{{< fa brands orcid>}} ORCID"
+      href: https://orcid.org/0000-0002-2077-2281
 ---
