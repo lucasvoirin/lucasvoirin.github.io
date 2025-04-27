@@ -16,5 +16,6 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    mainfont: Inter
 
 editor: visual
