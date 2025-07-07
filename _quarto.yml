@@ -11,6 +11,10 @@ website:
     left:
       - text: "Research"
         href: research/index.qmd
+      - text: Workshops
+        menu:
+          - text: "Passive Acoustic Monitoring"
+            href: "https://lucasvoirin.github.io/passive_acoustic_monitoring"
 
 format:
   html:
