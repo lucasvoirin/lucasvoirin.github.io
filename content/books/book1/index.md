@@ -66,7 +66,7 @@ Praesent at eros a sapien sagittis scelerisque at a nulla. Aliquam erat volutpat
 
 Moritz-Maria von Igelfeld. 1997. *Portugese Irregular Verbs*. Regensburg, Germany: Regensburg University Press. http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs.
 
-```BibTeX
+```latex
 @book{I97,
 author = {Moritz-Maria von Igelfeld},
 year = {1997},

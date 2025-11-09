@@ -41,7 +41,7 @@ This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor s
 
 Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
 
-```BibTeX
+```latex
 @article{PI04,
 author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
 year = {2004},

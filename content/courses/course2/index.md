@@ -33,7 +33,7 @@ This course covers topics related to profanity in Early Irish. It relates such p
 
 ##### Introductory readings
 
-+ [Paper 1](https://pascalmichaillat.org/1.pdf)
++ [Paper 1](https://pascalmichaillat.org/14.pdf)
 + [Paper 2](https://pascalmichaillat.org/13.pdf)
 
 ---
@@ -55,8 +55,9 @@ cillum dolore eu fugiat nulla pariatur.
 
 ##### Readings
 
-+ [Paper 3](https://pascalmichaillat.org/7.pdf)
-+ [Paper 4](https://pascalmichaillat.org/8.pdf)
++ [Paper 3](https://pascalmichaillat.org/6.pdf)
++ [Paper 4](https://pascalmichaillat.org/7.pdf)
++ [Paper 5](https://pascalmichaillat.org/8.pdf)
 
 ---
 
@@ -75,14 +76,14 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 ##### Compulsory readings
 
-+ [Paper 5](https://pascalmichaillat.org/10.pdf)
-+ [Paper 6](https://pascalmichaillat.org/11.pdf)
++ [Paper 5](https://pascalmichaillat.org/9.pdf)
++ [Paper 6](https://pascalmichaillat.org/14.pdf)
 
 ##### Optional readings
 
-+ [Paper 7](https://pascalmichaillat.org/2.pdf)
-+ [Paper 8](https://pascalmichaillat.org/4.pdf)
-+ [Paper 9](https://pascalmichaillat.org/5.pdf)
++ [Paper 7](https://pascalmichaillat.org/15.pdf)
++ [Paper 8](https://pascalmichaillat.org/16.pdf)
++ [Paper 9](https://pascalmichaillat.org/17.pdf)
 
 ##### Homework
 
@@ -103,7 +104,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ##### Lecture videos
 
 + [Lecture video 5](https://youtu.be/Q0y2EtgTpXM)
-+ [Lecture slides 6](https://youtu.be/0ZO87WsOYrY)
++ [Lecture video 6](https://youtu.be/0ZO87WsOYrY)
 
 ---
 

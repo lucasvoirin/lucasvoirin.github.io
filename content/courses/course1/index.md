@@ -85,8 +85,8 @@ This section introduces Portugese irregular verbs. Lorem ipsum dolor sit amet, c
 
 ##### Readings
 
-+ [Paper 4](https://pascalmichaillat.org/5.pdf) – This paper computes things. (Details about the simulations are presented in the paper's [online appendix](https://pascalmichaillat.org/5a.pdf).)
-+ [Paper 5](https://pascalmichaillat.org/3.pdf) – This paper proves things. (The paper's [online appendix](https://pascalmichaillat.org/3a.pdf) contains long proofs and extensions of the results.)
++ [Paper 4](https://pascalmichaillat.org/3.pdf) – This paper computes things. (Details about the simulations are presented in the paper's [online appendix](https://pascalmichaillat.org/3a.pdf).)
++ [Paper 5](https://pascalmichaillat.org/5.pdf) – This paper proves things. (The paper's [online appendix](https://pascalmichaillat.org/5a.pdf) contains long proofs and extensions of the results.)
 
 
 ## Part 3: Spanish irregular verbs
@@ -102,11 +102,12 @@ This section quickly discusses irregular verbs in Spanish. Lorem ipsum dolor sit
 ##### Basic readings
 
 + [Paper 6](https://pascalmichaillat.org/10.pdf)
++ [Paper 7](https://pascalmichaillat.org/11.pdf)
 
 ##### Advanced readings
 
-+ [Paper 7](https://pascalmichaillat.org/11.pdf)
 + [Paper 8](https://pascalmichaillat.org/12.pdf)
++ [Paper 9](https://pascalmichaillat.org/13.pdf)
 
 ## Conclusion
 

@@ -34,7 +34,7 @@ Using several case studies, this paper describes the inner hedgehog, a psycholog
 
 Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
 
-```BibTeX
+```latex
 @article{SZI21,
 author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
 year = {2021},
