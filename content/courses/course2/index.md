@@ -33,8 +33,8 @@ This course covers topics related to profanity in Early Irish. It relates such p
 
 ##### Introductory readings
 
-+ [Paper 1](https://pascalmichaillat.org/14.pdf)
-+ [Paper 2](https://pascalmichaillat.org/13.pdf)
++ [Paper 1](https://pascalmichaillat.org/13.pdf)
++ [Paper 2](https://pascalmichaillat.org/14.pdf)
 
 ---
 
@@ -55,9 +55,9 @@ cillum dolore eu fugiat nulla pariatur.
 
 ##### Readings
 
-+ [Paper 3](https://pascalmichaillat.org/6.pdf)
-+ [Paper 4](https://pascalmichaillat.org/7.pdf)
-+ [Paper 5](https://pascalmichaillat.org/8.pdf)
++ [Paper 3](https://pascalmichaillat.org/6.pdf) ([online appendix](https://pascalmichaillat.org/6a.pdf))
++ [Paper 4](https://pascalmichaillat.org/8.pdf) ([online appendix](https://pascalmichaillat.org/8a.pdf))
++ [Paper 5](https://pascalmichaillat.org/9.pdf) ([online appendix](https://pascalmichaillat.org/9a.pdf))
 
 ---
 
@@ -74,10 +74,9 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 + [Lecture video 3](https://youtu.be/GfpKnLDTwyM)
 + [Lecture video 4](https://youtu.be/UHnSkIZcjBs)
 
-##### Compulsory readings
+##### Compulsory reading
 
-+ [Paper 5](https://pascalmichaillat.org/9.pdf)
-+ [Paper 6](https://pascalmichaillat.org/14.pdf)
++ [Paper 6](https://pascalmichaillat.org/7.pdf)
 
 ##### Optional readings
 
