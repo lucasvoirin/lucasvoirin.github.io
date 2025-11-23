@@ -65,7 +65,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ##### Readings
 
-+ [Paper 1](https://pascalmichaillat.org/1.pdf) – This is a first paper to read.
++ [Paper 1](https://pascalmichaillat.org/1.pdf) – This is a first paper to read. (Further results are in the [online appendix](https://pascalmichaillat.org/1a.pdf).)
 + [Paper 2](https://pascalmichaillat.org/2.pdf) – This paper builds on the first one.
 + [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper is more complex.
 
@@ -75,9 +75,9 @@ This section introduces Portugese irregular verbs. Lorem ipsum dolor sit amet, c
 
 ##### Lecture videos
 
-+ [Lecture video 4](https://youtu.be/IZI0_WwIyb8)
-+ [Lecture video 5](https://youtu.be/Qz7CCB1-gu8)
-+ [Lecture video 6](https://youtu.be/79MSNfp1rw0)
++ [Lecture video 4](https://youtu.be/IZI0_WwIyb8) - Short overview of the Portugese language.
++ [Lecture video 5](https://youtu.be/Qz7CCB1-gu8) - History of irregular verbs.
++ [Lecture video 6](https://youtu.be/79MSNfp1rw0) - Main Portugese irregular verbs.
 
 ##### Lecture notes
 
@@ -101,8 +101,8 @@ This section quickly discusses irregular verbs in Spanish. Lorem ipsum dolor sit
 
 ##### Basic readings
 
-+ [Paper 6](https://pascalmichaillat.org/10.pdf)
-+ [Paper 7](https://pascalmichaillat.org/11.pdf)
++ [Paper 6](https://pascalmichaillat.org/10.pdf) ([online appendix](https://pascalmichaillat.org/10a.pdf))
++ [Paper 7](https://pascalmichaillat.org/11.pdf) ([online appendix](https://pascalmichaillat.org/11a.pdf))
 
 ##### Advanced readings
 
