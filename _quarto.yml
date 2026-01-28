@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Lucas Voirin"
+  site-url: "https://lucasvoirin.github.io/"
   favicon: favicon.png
   search: false
   navbar:
@@ -19,7 +20,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: custom.scss
     mainfont: Inter
 
 editor: visual
