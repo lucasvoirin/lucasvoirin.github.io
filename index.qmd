@@ -1,7 +1,7 @@
 ---
 image: lv.jpg
 about:
-  template: jolla
+  template: trestles
   links:
     - text: "{{< fa brands bluesky >}} Bluesky"
       href: https://bsky.app/profile/lucasvoirin.bsky.social
@@ -12,3 +12,13 @@ about:
     - text: "{{< fa brands orcid>}} ORCID"
       href: https://orcid.org/0000-0002-2077-2281
 ---
+
+## Lucas Voirin
+
+{{< fa building-columns >}} [Université Laval](https://www.ulaval.ca/)
+
+{{< fa location-dot >}} Quebec, Canada
+
+I'm a PhD student in forest sciences at the [Center for Forest Research](https://www.cef-cfr.ca/).
+
+My work focuses on the integration of wildlife considerations into natural resources development projects.

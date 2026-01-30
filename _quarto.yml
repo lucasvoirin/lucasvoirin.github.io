@@ -19,8 +19,9 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: custom.scss
+    theme:
+      - cosmo
+      - custom.scss
     mainfont: Inter
 
 editor: visual
