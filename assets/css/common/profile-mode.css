@@ -45,3 +45,30 @@
 .button:hover {
     background: var(--lightcolor);
 }
+
+
+/* Social icons – alignement icône / texte */
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.social-icon {
+  display: inline-flex;
+  align-items: center;
+}
+
+.social-icon svg {
+  width: 1.2rem;
+  height: 1.2rem;
+  display: block;
+}
+
+.social-label {
+  font-size: 1rem;
+  line-height: 1;
+  margin-top: 0.02em;
+  white-space: nowrap;
+}
+
