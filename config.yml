@@ -82,7 +82,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Lucas Voirin"
-      icon: favicon.png
+      icon: favicon-32x32.png
       iconHeight: 30
 
 markup:
