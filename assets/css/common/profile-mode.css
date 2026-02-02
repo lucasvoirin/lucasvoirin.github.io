@@ -83,15 +83,16 @@
   left: 50%;
   bottom: 0;
   transform: translateX(-50%);
-
   width: 100%;
   min-height: 400px;
-  aspect-ratio: 16 / 9; /* AJUSTE SELON TON SVG */
-
+  aspect-ratio: 16 / 9;
   background: url("/forest.svg") bottom center / contain no-repeat;
-
   opacity: 0.04;
   pointer-events: none;
   z-index: 0;
 }
-
+@media (max-width: 768px) {
+  .list:has(.profile)::after {
+    background-size: cover;
+  }
+}
