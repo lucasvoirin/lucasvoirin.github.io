@@ -77,19 +77,21 @@
   position: relative;
 }
 
-/* Image UNIQUEMENT sur la page Profile */
 .list:has(.profile)::after {
   content: "";
   position: fixed;
-  left: 0;
+  left: 50%;
   bottom: 0;
+  transform: translateX(-50%);
 
   width: 100%;
-  height: 100dvh; /* hauteur visuelle contrôlée */
+  min-height: 400px;
+  aspect-ratio: 16 / 9; /* AJUSTE SELON TON SVG */
 
-  background: url("/forest.svg") bottom center / cover no-repeat;
+  background: url("/forest.svg") bottom center / contain no-repeat;
 
   opacity: 0.04;
   pointer-events: none;
   z-index: 0;
 }
+
