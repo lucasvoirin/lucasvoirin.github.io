@@ -72,3 +72,24 @@
   white-space: nowrap;
 }
 
+
+.main {
+  position: relative;
+}
+
+/* Image UNIQUEMENT sur la page Profile */
+.list:has(.profile)::after {
+  content: "";
+  position: fixed;
+  left: 0;
+  bottom: 0;
+
+  width: 100%;
+  height: 100%; /* hauteur visuelle contrôlée */
+
+  background: url("/forest.svg") bottom center / cover no-repeat;
+
+  opacity: 0.04;
+  pointer-events: none;
+  z-index: 0;
+}
