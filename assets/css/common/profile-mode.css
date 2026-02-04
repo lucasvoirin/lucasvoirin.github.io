@@ -83,8 +83,6 @@
 }
 
 
-
-
 /* .list:has(.profile)::after { */
 /*   content: ""; */
 /*   position: fixed; */
@@ -112,7 +110,7 @@
   background: url("/forest.svg") bottom center / contain no-repeat;
   opacity: 0.06;
   pointer-events: none;
-  z-index: 0;
+  z-index: -1;
 }
 
  .list.dark::after {
