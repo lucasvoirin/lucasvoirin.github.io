@@ -82,7 +82,25 @@
   position: relative;
 }
 
-.list:has(.profile)::after {
+
+
+
+/* .list:has(.profile)::after { */
+/*   content: ""; */
+/*   position: fixed; */
+/*   left: 50%; */
+/*   bottom: 0; */
+/*   transform: translateX(-50%); */
+/*   width: 100%; */
+/*   min-height: 400px; */
+/*   aspect-ratio: 16 / 9; */
+/*   background: url("/forest.svg") bottom center / contain no-repeat; */
+/*   opacity: 0.06; */
+/*   pointer-events: none; */
+/*   z-index: 0; */
+/* } */
+
+.list::after {
   content: "";
   position: fixed;
   left: 50%;
@@ -92,16 +110,16 @@
   min-height: 400px;
   aspect-ratio: 16 / 9;
   background: url("/forest.svg") bottom center / contain no-repeat;
-  opacity: 0.05;
+  opacity: 0.06;
   pointer-events: none;
   z-index: 0;
 }
 
-.dark .list:has(.profile)::after {
-  background-image: url("/forest-dark.svg") !important;
-  opacity: 0.5;
-  filter: brightness(0.9) contrast(1.2); /* Ajustements optionnels */
+ .list.dark::after {
+  opacity: 0.15;
+  filter: brightness(0.6) contrast(1.2);
 }
+
 
 @media (max-width: 768px) {
   .list:has(.profile)::after {
