@@ -91,3 +91,8 @@ body:not(.dark) #sun {
 .logo-switches {
     flex-wrap: inherit;
 }
+
+
+.header-profile .nav {
+    background: transparent;
+}

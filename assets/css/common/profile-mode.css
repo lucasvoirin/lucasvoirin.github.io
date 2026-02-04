@@ -73,6 +73,11 @@
 }
 
 
+
+.dark .footer{
+	background: transparent;
+}
+
 .main {
   position: relative;
 }
@@ -87,10 +92,17 @@
   min-height: 400px;
   aspect-ratio: 16 / 9;
   background: url("/forest.svg") bottom center / contain no-repeat;
-  opacity: 0.04;
+  opacity: 0.05;
   pointer-events: none;
   z-index: 0;
 }
+
+.dark .list:has(.profile)::after {
+  background-image: url("/forest-dark.svg") !important;
+  opacity: 0.5;
+  filter: brightness(0.9) contrast(1.2); /* Ajustements optionnels */
+}
+
 @media (max-width: 768px) {
   .list:has(.profile)::after {
     background-size: cover;

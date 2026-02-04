@@ -1,0 +1,7 @@
+---
+title: "Conférences"
+hidemeta: true
+---
+
+
+<iframe src="/examen_doctoral.html" width="100%" height="500px"></iframe>

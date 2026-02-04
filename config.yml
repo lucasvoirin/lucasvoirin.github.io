@@ -28,11 +28,12 @@ params:
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
-    disableThemeToggle: true
+    disableThemeToggle: false
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
+    displayFullLangName: false
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
@@ -96,3 +97,90 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+
+
+
+defaultContentLanguage: "fr"  # Langue par défaut
+languages:
+  fr:
+    languageName: "Français"
+    weight: 1
+    contentDir: "content/fr"
+    params:
+      languageAltTitle: "Français"
+      profileMode:
+        enabled: true
+        title: "Lucas Voirin"
+        subtitle: "Je suis doctorant en sciences forestières au Centre d'étude le la forêt. <br>
+                  Mon travail porte sur l'intégration des considérations fauniques dans les projets d'exploitation de ressources naturelles."
+        buttons:
+          - name: "Recherche"
+            url: "research/"
+          - name: "Ateliers"
+            url: "workshops/"
+          - name: "Conférences"
+            url: "talks/"
+          # - name: "Blog"
+          #   url: "blog/"
+
+      socialIcons:
+          - icon: fa-github
+            name: GitHub
+            url: https://github.com/lucasvoirin
+          - icon: fa-bluesky
+            name: Bluesky
+            url: https://bsky.app/profile/lucasvoirin.bsky.social
+          - icon: fa-orcid
+            name: Orcid
+            url: https://bsky.app/profile/lucasvoirin.bsky.social
+          - icon: fa-leaf
+            name: Centre d'étude de la forêt
+            url: https://www.cef-cfr.ca/pmwiki.php?n=Membres.LucasVoirin
+
+    menu:
+        main:
+            - name: Recherche
+              url: research/
+              weight: 2
+            - name: Ateliers
+              url: workshops/
+              weight: 3
+            - name: Conférences
+              url: talks/
+              weight: 4 
+            # - name: Blog
+            #   url: blog/
+            #   weight: 6 
+
+
+  en:
+    languageName: "English"
+    weight: 2
+    contentDir: "content/en"
+    params:
+      languageAltTitle: "English"
+      profileMode:
+        enabled: true
+        title: "Lucas Voirin"
+        subtitle: "I’m a PhD student in forest sciences at the Center for Forest Research. <br>
+                  My work focuses on the integration of wildlife considerations into natural resources development projects."
+        buttons:
+          - name: "Research"
+            url: "research/"
+          - name: "Workshops"
+            url: "workshops/"
+          - name: "Talks"
+            url: "talks/"
+      socialIcons:
+          - icon: fa-github
+            name: GitHub
+            url: https://github.com/lucasvoirin
+          - icon: fa-bluesky
+            name: Bluesky
+            url: https://bsky.app/profile/lucasvoirin.bsky.social
+          - icon: fa-orcid
+            name: Orcid
+            url: https://bsky.app/profile/lucasvoirin.bsky.social
+          - icon: fa-leaf
+            name: Center for Forest Research
+            url: https://www.cef-cfr.ca/pmwiki.php?n=Membres.LucasVoirin
