@@ -74,7 +74,7 @@
 
 
 
-.dark .footer{
+.footer{
 	background: transparent;
 }
 
@@ -108,13 +108,13 @@
   min-height: 400px;
   aspect-ratio: 16 / 9;
   background: url("/forest.svg") bottom center / contain no-repeat;
-  opacity: 0.06;
+  opacity: 0.07;
   pointer-events: none;
   z-index: -1;
 }
 
  .list.dark::after {
-  opacity: 0.15;
+  opacity: 0.25;
   filter: brightness(0.6) contrast(1.2);
 }
 
