@@ -1,0 +1,18 @@
+# shellcheck disable=SC2148
+GREEN='\033[0;32m'
+RED='\033[0;31m'
+NC='\033[0m' # No Color
+
+echo "🔍 Linting commit message..."
+
+# Run commitlint and capture its output and exit code
+output=$(npx --no-install commitlint --edit "$1" 2>&1)
+exit_code=$?
+
+if [ $exit_code -eq 0 ]; then
+    echo "${GREEN}✅ Commit message meets all conventions.${NC}"
+else
+    echo "${RED}❌ Commit message failed linting:${NC}"
+    echo "$output"  # Print the original error message from commitlint
+    exit $exit_code # Exit with the original error code to abort the commit
+fi
