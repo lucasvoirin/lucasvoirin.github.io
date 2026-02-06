@@ -1,0 +1,267 @@
+baseURL = "https://lucasvoirin.github.io"
+title = "Lucas Voirin"
+theme = "PaperMod"
+
+enableInlineShortcodes = true
+enableRobotsTXT = true
+defaultContentLanguage = "fr"
+
+ignoreFiles = [
+  "\\.qmd$",
+  "\\.ipynb$",
+  "\\.py$"
+]
+
+[pagination]
+pagerSize = 20
+
+[taxonomies]
+tag = "tags"
+
+########################
+# MENUS (global)
+########################
+[[menu.main]]
+name = "Research"
+url = "research/"
+weight = 2
+
+[[menu.main]]
+name = "Workshops"
+url = "workshops/"
+weight = 3
+
+[[menu.main]]
+name = "Talks"
+url = "talks/"
+weight = 4
+
+########################
+# PARAMS (PaperMod)
+########################
+[params]
+author = "Lucas Voirin"
+description = ""
+DateFormat = "January 2006"
+defaultTheme = "light"
+
+hideFooter = false
+disableThemeToggle = false
+disableSpecial1stPost = true
+disableAnchoredHeadings = true
+disableScrollToTop = true
+
+ShowShareButtons = false
+ShowReadingTime = false
+ShowPostNavLinks = false
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = true
+ShowAllPagesInArchive = false
+ShowToc = false
+ShowWordCount = false
+UseHugoToc = true
+
+displayFullLangName = false
+comments = false
+math = true
+
+MainSections = ["books", "courses", "papers", "data"]
+
+########################
+# PROFILE MODE
+########################
+[params.profileMode]
+enabled = true
+title = "Lucas Voirin"
+subtitle = """I’m a PhD student in forest sciences at the Center for Forest Research. <br>
+My work focuses on the integration of wildlife considerations into natural resources development projects."""
+imageUrl = "lv.png"
+imageWidth = 160
+imageHeight = 160
+
+[[params.profileMode.buttons]]
+name = "Research"
+url = "research/"
+
+[[params.profileMode.buttons]]
+name = "Workshops"
+url = "workshops/"
+
+[[params.profileMode.buttons]]
+name = "Talks"
+url = "talks/"
+
+########################
+# SOCIAL ICONS
+########################
+[[params.socialIcons]]
+icon = "fa-github"
+name = "GitHub"
+url = "https://github.com/lucasvoirin"
+
+[[params.socialIcons]]
+icon = "fa-bluesky"
+name = "Bluesky"
+url = "https://bsky.app/profile/lucasvoirin.bsky.social"
+
+[[params.socialIcons]]
+icon = "fa-orcid"
+name = "Orcid"
+url = "https://bsky.app/profile/lucasvoirin.bsky.social"
+
+[[params.socialIcons]]
+icon = "fa-leaf"
+name = "Center for Forest Research"
+url = "https://www.cef-cfr.ca/pmwiki.php?n=Membres.LucasVoirin"
+
+########################
+# ASSETS / COVER / LABEL
+########################
+[params.assets]
+disableScrollBarStyle = true
+
+[params.cover]
+hiddenInList = false
+hiddenInSingle = true
+
+[params.label]
+text = "Lucas Voirin"
+icon = "favicon-32x32.png"
+iconHeight = 30
+
+########################
+# MARKUP (Quarto OK)
+########################
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+guessSyntax = true
+style = "autumn"
+
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 2
+ordered = false
+
+########################
+# LANGUAGES
+########################
+[languages.fr]
+languageName = "Français"
+weight = 1
+contentDir = "content/fr"
+
+[languages.fr.params]
+languageAltTitle = "Français"
+
+[languages.fr.params.profileMode]
+enabled = true
+title = "Lucas Voirin"
+subtitle = """Je suis doctorant en sciences forestières au Centre d'étude de la forêt. <br>
+Mon travail porte sur l'intégration des considérations fauniques dans les projets d'exploitation de ressources naturelles."""
+
+[[languages.fr.params.profileMode.buttons]]
+name = "Recherche"
+url = "research/"
+
+[[languages.fr.params.profileMode.buttons]]
+name = "Ateliers"
+url = "workshops/"
+
+[[languages.fr.params.profileMode.buttons]]
+name = "Conférences"
+url = "talks/"
+
+[[languages.fr.params.profileMode.buttons]]
+name = "Blog"
+url = "blog/"
+
+[[languages.fr.params.socialIcons]]
+icon = "fa-github"
+name = "GitHub"
+url = "https://github.com/lucasvoirin"
+
+[[languages.fr.params.socialIcons]]
+icon = "fa-bluesky"
+name = "Bluesky"
+url = "https://bsky.app/profile/lucasvoirin.bsky.social"
+
+[[languages.fr.params.socialIcons]]
+icon = "fa-orcid"
+name = "Orcid"
+url = "https://bsky.app/profile/lucasvoirin.bsky.social"
+
+[[languages.fr.params.socialIcons]]
+icon = "fa-leaf"
+name = "Centre d'étude de la forêt"
+url = "https://www.cef-cfr.ca/pmwiki.php?n=Membres.LucasVoirin"
+
+[[languages.fr.menu.main]]
+name = "Recherche"
+url = "research/"
+weight = 2
+
+[[languages.fr.menu.main]]
+name = "Ateliers"
+url = "workshops/"
+weight = 3
+
+[[languages.fr.menu.main]]
+name = "Conférences"
+url = "talks/"
+weight = 4
+
+[[languages.fr.menu.main]]
+name = "Blog"
+url = "blog/"
+weight = 6
+
+########################
+# ENGLISH
+########################
+[languages.en]
+languageName = "English"
+weight = 2
+contentDir = "content/en"
+
+[languages.en.params]
+languageAltTitle = "English"
+
+[languages.en.params.profileMode]
+enabled = true
+title = "Lucas Voirin"
+subtitle = """I’m a PhD student in forest sciences at the Center for Forest Research. <br>
+My work focuses on the integration of wildlife considerations into natural resources development projects."""
+
+[[languages.en.params.profileMode.buttons]]
+name = "Research"
+url = "research/"
+
+[[languages.en.params.profileMode.buttons]]
+name = "Workshops"
+url = "workshops/"
+
+[[languages.en.params.profileMode.buttons]]
+name = "Talks"
+url = "talks/"
+
+[[languages.en.params.socialIcons]]
+icon = "fa-github"
+name = "GitHub"
+url = "https://github.com/lucasvoirin"
+
+[[languages.en.params.socialIcons]]
+icon = "fa-bluesky"
+name = "Bluesky"
+url = "https://bsky.app/profile/lucasvoirin.bsky.social"
+
+[[languages.en.params.socialIcons]]
+icon = "fa-orcid"
+name = "Orcid"
+url = "https://bsky.app/profile/lucasvoirin.bsky.social"
+
+[[languages.en.params.socialIcons]]
+icon = "fa-leaf"
+name = "Center for Forest Research"
+url = "https://www.cef-cfr.ca/pmwiki.php?n=Membres.LucasVoirin"

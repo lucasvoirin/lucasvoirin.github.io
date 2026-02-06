@@ -2,6 +2,12 @@ baseURL: "https://lucasvoirin.github.io"
 title: Lucas Voirin
 theme: PaperMod
 
+ignoreFiles:
+  - "\\.qmd$"
+  - "\\.ipynb$"
+  - "\\.py$"
+
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
@@ -120,8 +126,8 @@ languages:
             url: "workshops/"
           - name: "Conférences"
             url: "talks/"
-          # - name: "Blog"
-          #   url: "blog/"
+          - name: "Blog"
+            url: "blog/"
 
       socialIcons:
           - icon: fa-github
@@ -148,9 +154,9 @@ languages:
             - name: Conférences
               url: talks/
               weight: 4 
-            # - name: Blog
-            #   url: blog/
-            #   weight: 6 
+            - name: Blog
+              url: blog/
+              weight: 6 
 
 
   en:
