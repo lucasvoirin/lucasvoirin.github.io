@@ -1,6 +1,6 @@
 baseURL = "https://lucasvoirin.github.io"
 title = "Lucas Voirin"
-theme = "PaperMod"
+theme = ["hugo-admonitions", "PaperMod"]
 
 enableInlineShortcodes = true
 enableRobotsTXT = true

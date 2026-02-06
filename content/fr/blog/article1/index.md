@@ -29,5 +29,8 @@ plt.show()
 <img src="index_files/figure-markdown_strict/fig-polar-output-1.png"
 id="fig-polar" alt="Figure 1: A line plot on a polar axis" />
 
+> \[!TIP\]
+> Helpful advice for doing things better or more easily.
+
 Note that there are five types of callouts, including:
 `note`, `warning`, `important`, `tip`, and `caution`.

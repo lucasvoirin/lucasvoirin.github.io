@@ -29,6 +29,9 @@ plt.show()
 ```
 
 
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
 ::: {.callout-info}
 Note that there are five types of callouts, including:
 `note`, `warning`, `important`, `tip`, and `caution`.
