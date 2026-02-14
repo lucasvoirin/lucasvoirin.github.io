@@ -6,6 +6,7 @@ categories:
   - Coordinates
 format: hugo-md
 jupyter: python3
+draft: true
 ---
 
 ## Polar Axis
@@ -36,3 +37,5 @@ plt.show()
 Note that there are five types of callouts, including:
 `note`, `warning`, `important`, `tip`, and `caution`.
 :::
+
+
