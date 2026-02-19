@@ -1,0 +1,41 @@
+---
+title: "Qui est vraiment le test t : enquête et révélations"
+format: hugo-md
+draft: true
+---
+
+Si il y a un test statistique populaire, c'est bien le test-t.
+Depuis un siècle, c'est devenu un réflexe : deux groupes à comparer ? Test-t !
+Facile, rapide et efficace, il a réussi à s'imposer partout. Pourtant, sait-on vraiment qui est ce test si répandu ?
+Notre équipe a mené l'enquête.
+Nous avons analysé les données ciblées par le test t, observé son mode opératoire et recherché des preuves de son apartenance à une famille de modèles statistiques bien connue.
+Nous avons découvert ce qui se cachait vraiment sous son air de simple test.
+Les éléments que vous allez découvrir sont inédits.
+Après des mois d'investigation, nous avons même obtenu la preuve que le test-t pourrait devenir... bayésien !
+
+### Dans le fond, c'est quoi un test-t ?
+
+Pour commencer notre enquête, nous sommes revenus à la base : quelles sont les données qui intéressent le test-t ?
+
+Dans sa version originale établie par Student, le test-t
+
+On a deux groupes que l'on veut comparer, deux distributions de valeurs avec des variances identiques, mais avec potentiellement une différence de moyenne.
+
+Ce que cherche systématiquement à faire le test-t, c'est vérifier si cette différence de moyenne est égale à zéro ou non.
+Le mobile est systématiquement le même.
+
+Comme aucun jeu de données ne s'est porté volontaire pour notre enquête, nous avons dû créer un appât nous même.
+Un mal pour un bien, car cela nous a permis de générer un jeu de données sur mesure, parfaitement au goût de notre suspect.
+
+Dans R, nous avons ainsi généré deux groupes de valeurs distribuées normallement, avec exactement la même variance, mais avec des moyennes différentes.
+
+
+### Un modèle linéaire
+
+Face à la gravité de cette révélation, nous avons voulu pousser nos recherche encore plus loin.
+Nous nous sommes demandé si le test t ne pourrait pas devenir bayésien.
+
+### Le test-t pourrait devenir modèle bayésien
+
+Revenons d'abord un peu sur ce qu'est un modèle bayésien.
+

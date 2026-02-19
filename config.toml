@@ -49,10 +49,10 @@ hideFooter = false
 disableThemeToggle = false
 disableSpecial1stPost = true
 disableAnchoredHeadings = true
-disableScrollToTop = true
+disableScrollToTop = false
 
 ShowShareButtons = false
-ShowReadingTime = false
+ShowReadingTime = true
 ShowPostNavLinks = false
 ShowBreadCrumbs = false
 ShowCodeCopyButtons = true
@@ -107,7 +107,7 @@ url = "https://bsky.app/profile/lucasvoirin.bsky.social"
 [[params.socialIcons]]
 icon = "fa-orcid"
 name = "Orcid"
-url = "https://bsky.app/profile/lucasvoirin.bsky.social"
+url = "https://orcid.org/0000-0002-2077-2281"
 
 [[params.socialIcons]]
 icon = "fa-leaf"
@@ -190,7 +190,7 @@ url = "https://bsky.app/profile/lucasvoirin.bsky.social"
 [[languages.fr.params.socialIcons]]
 icon = "fa-orcid"
 name = "Orcid"
-url = "https://bsky.app/profile/lucasvoirin.bsky.social"
+url = "https://orcid.org/0000-0002-2077-2281"
 
 [[languages.fr.params.socialIcons]]
 icon = "fa-leaf"
