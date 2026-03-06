@@ -73,7 +73,7 @@ MainSections = ["books", "courses", "papers", "data"]
 [params.profileMode]
 enabled = true
 title = "Lucas Voirin"
-subtitle = """I’m a PhD student in forest sciences at the Center for Forest Research. <br>
+subtitle = """I’m a PhD student in forest sciences at the Centre for Forest Research. <br>
 My work focuses on the integration of wildlife considerations into natural resources development projects."""
 imageUrl = "lv.png"
 imageWidth = 160
@@ -111,7 +111,7 @@ url = "https://orcid.org/0000-0002-2077-2281"
 
 [[params.socialIcons]]
 icon = "fa-leaf"
-name = "Center for Forest Research"
+name = "Centre for Forest Research"
 url = "https://www.cef-cfr.ca/pmwiki.php?n=Membres.LucasVoirin"
 
 ########################
@@ -231,7 +231,7 @@ languageAltTitle = "English"
 [languages.en.params.profileMode]
 enabled = true
 title = "Lucas Voirin"
-subtitle = """I’m a PhD student in forest sciences at the Center for Forest Research. <br>
+subtitle = """I’m a PhD student in forest sciences at the Centre for Forest Research. <br>
 My work focuses on the integration of wildlife considerations into natural resources development projects."""
 
 [[languages.en.params.profileMode.buttons]]
@@ -263,5 +263,5 @@ url = "https://orcid.org/0000-0002-2077-2281"
 
 [[languages.en.params.socialIcons]]
 icon = "fa-leaf"
-name = "Center for Forest Research"
+name = "Centre for Forest Research"
 url = "https://www.cef-cfr.ca/pmwiki.php?n=Membres.LucasVoirin"
